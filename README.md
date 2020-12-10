@@ -2,11 +2,13 @@
 Exploratory analysis of the OSMI Mental Health in Tech Survey from 2014 to 2019
 
 Project Motivations:
-It is widely believed that technology jobs is among the most stressful of all jobs. Could this also be leading to more mental health issues among the tech-workers as opposed to the non-tech workers? This github repo is create to explore questions like these and more using the OSMI Mental Health Survey results collated for 2014, 2016, 2017 and 2018 and published in kaggle.
+
+  It is widely believed that technology jobs is among the most stressful of all jobs. Could this also be leading to more mental health issues among the tech-workers as opposed to the non-tech workers? This github repo is create to explore questions like these and more using the OSMI Mental Health Survey results collated for 2014, 2016, 2017 and 2018 and published in kaggle.
 
 About Dataset:
+
   This data is from Open Source Mental Illness (OSMI) using survey data from years 2014, 2016, 2017, 2018 and 2019. Each survey measures and attitudes towards mental health and frequency of mental health disorders in the tech workplace.
-The raw data consists of a SQLite database containing 3 tables. Survey, Question, and Answer.
+  The raw data consists of a SQLite database containing 3 tables. Survey, Question, and Answer.
 1) Survey (PRIMARY KEY INT SurveyID, TEXT Description)
 2) Question (PRIMARY KEY QuestionID, TEXT QuestionText)
 3) Answer (PRIMARY/FOREIGN KEY SurveyID, PRIMARY KEY UserID, PRIMARY/FOREIGN KEY QuestionID, TEXT AnswerText)
