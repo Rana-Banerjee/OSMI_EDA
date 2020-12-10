@@ -7,7 +7,7 @@
 
 <B>About Dataset:</B>
 
-  This data is from Open Source Mental Illness (OSMI) using survey data from years 2014, 2016, 2017, 2018 and 2019. Each survey measures and attitudes towards mental health and frequency of mental health disorders in the tech workplace.
+  This data is from Open Source Mental Illness (OSMI) using survey data from years 2014, 2016, 2017, 2018 and 2019 and available at https://www.kaggle.com/anth7310/mental-health-in-the-tech-industry Each survey measures and attitudes towards mental health and frequency of mental health disorders in the tech workplace.
   The raw data consists of a SQLite database containing 3 tables. Survey, Question, and Answer.
 1) Survey (PRIMARY KEY INT SurveyID, TEXT Description)
 2) Question (PRIMARY KEY QuestionID, TEXT QuestionText)
