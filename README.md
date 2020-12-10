@@ -28,8 +28,8 @@
 
 <B>Summary of result:</B>
 
-Followign the EDA done on the data I could conclude the following:
-1) Based on the quality and quantity of the data it will be difficult to assume any correlation between the type of work and mental health challenges.
+Followign the EDA done on the data one could conclude the following:
+1) Based on the quality and quantity of the data available, it will be difficult to assume any correlation between the type of work and mental health challenges.
 2) One might however derive the insight that people facing mental health challenges find it better to work in large companies due to the support system provided by them.
 3) Also, one may also conclude that roles that does not involve social interactions are more favourable for people facing mental health issues.
 
