@@ -4,9 +4,12 @@
 <B> Project Motivations </B>:
 
   It is widely believed that technology jobs is among the most stressful of all jobs. Could this also be leading to more mental health issues among the tech-workers as opposed to the non-tech workers? This github repo is create to explore the following questions using the OSMI Mental Health Survey results collated for 2014, 2016, 2017 and 2018 and published in kaggle.
-  Q1) Are people working in Tech reporting higher mental health issues than non-Tech workers?
-  Q2) Do people working in smaller organisations have better or worse mental health than those working in larger organisations?
-  Q3) What type of role do people with mental health issues have?
+  
+  <B>Q1)</B> Are people working in Tech reporting higher mental health issues than non-Tech workers?
+  
+  <B>Q2)</B> Do people working in smaller organisations have better or worse mental health than those working in larger organisations?
+  
+  <B>Q3)</B> What type of role do people with mental health issues have?
 
 <B>About Dataset:</B>
 
